@@ -1,1 +1,3 @@
-
+Similarities: Avoid making major changes in anyones code, Review the code for correctness, don't comment on the code writer
+Differences: Microsoft talks about the tone you should have when reviewing, yelp talks about what you should look for when reviewing code. 
+Yelp talks about how code reviews are a discussion, Microsoft thinks of them more as critiques

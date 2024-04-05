@@ -1,6 +1,12 @@
+1. 
 Similarities: Avoid making major changes in anyones code, Review the code for correctness, don't comment on the code writer
 Differences: Microsoft talks about the tone you should have when reviewing, yelp talks about what you should look for when reviewing code. 
 Yelp talks about how code reviews are a discussion, Microsoft thinks of them more as critiques
 
-2. I found the code review of "An arena/bump allocator in C" to be an extremely well-written review. This code review provide reviews for testing, documentation, bugs within the code, API reviews, stability of the program, and further design considerations. In addition, the feedback provided reasoning for why the code should have improvements and what steps to take to improve the code. Lastly, the reviewer put together each of the suggestions in C to show the originally user how the program should look at the end. The combination of in depth explanation, suggestions, and answers proved to be a well-written code review.
+2. 
+I found the code review of "An arena/bump allocator in C" to be an extremely well-written review. This code review provide reviews for testing, documentation, bugs within the code, API reviews, stability of the program, and further design considerations. In addition, the feedback provided reasoning for why the code should have improvements and what steps to take to improve the code. Lastly, the reviewer put together each of the suggestions in C to show the originally user how the program should look at the end. The combination of in depth explanation, suggestions, and answers proved to be a well-written code review.
 https://codereview.stackexchange.com/questions/291416/an-arena-bump-allocator-in-c
+
+3.
+https://codereview.stackexchange.com/questions/291394/best-practice-code-for-payment-integration
+This is a bad code review because the user did not provide enough code for the reviewers to give a good review.

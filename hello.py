@@ -1,4 +1,11 @@
+# katelyn's function
 def helloMessage():
     print("hello my name is katelyn")
 
 helloMessage()
+
+# emilys function
+def printHello():
+    print("Hello, my name is Emily")
+    
+printHello()

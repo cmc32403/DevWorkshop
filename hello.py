@@ -13,3 +13,9 @@ def printHello():
     print("Hello, my name is Emily")
     
 printHello()
+
+# matt's function
+def printHi():
+    print("Hello my name is Matt")
+
+printHi()

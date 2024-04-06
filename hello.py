@@ -16,6 +16,6 @@ printHello()
 
 # matt's function
 def printHi():
-    print("hello my name is Matt")
+    print("Hello my name is Matt")
 
 printHi()
